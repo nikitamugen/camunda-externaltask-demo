@@ -1,0 +1,10 @@
+camunda.bpm:
+  webapp:
+    index-redirect-enabled: true
+  admin-user:
+    id: root
+    password: 123
+camunda:
+  bpm:
+    job-execution:
+      enabled: true
